@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hamid-hbs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -121,8 +121,6 @@ hamid:
 <td>
 
 * MySQL
-* SQLite
-* MariaDB
 
 </td>
 
@@ -162,35 +160,11 @@ hamid:
 
 ---
 
-## 📊 Mes statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 
 </div>
 
