@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Salut,%20moi%20c'est%20Hamid%20👋🏾&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Benin%20🇧🇯&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%2B+Vue.js+%3D+%E2%9D%A4%EF%B8%8F;Je+con%C3%A7ois+des+applications+modernes+et+performantes;Toujours+en+train+d%27apprendre+%F0%9F%9A%80;Code.+Build.+Deploy.+Repeat.+%20🔄️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%2B+Vue.js+%E2%9D%A4%EF%B8%8F;Je+con%C3%A7ois+des+applications+modernes+et+performantes;Toujours+en+train+d%27apprendre+%F0%9F%9A%80;Code.+Build.+Deploy.+Repeat.+%F0%9F%94%84" alt="Typing SVG" />
 </a>
 
 <br>
