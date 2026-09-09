@@ -81,7 +81,7 @@ hamid:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,python,django,mysql,postgre,firebase,git,github,linux,docker,postman,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,python,django,mysql,postgresql,firebase,git,github,linux,docker,postman,vscode&theme=light" />
 
 </div>
 
